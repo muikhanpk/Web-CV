@@ -1755,11 +1755,11 @@ a {
 
 .testimonaials-image
 {
-  width: 10%;
+  width: 15%;
   border-radius: 100%;
   margin:10px;
-  position: relative;
+   position: relative;
   left:900px;
   top:  60px;
-  display: inline-block;
+  /* display: inline-block; */
 }
